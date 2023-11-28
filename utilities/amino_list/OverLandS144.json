@@ -1,0 +1,11 @@
+{
+    "welcome": "Hola soy el bot Klaus y bienvenido a OverLand, aqu\u00ed podr\u00e1s pedir uno de los bots de Poseid\u00f3n para t\u00fa comunidad o chat. Aqu\u00ed tienes el link de Poseid\u00f3n:http://aminoapps.com/p/3w0thn. Y aqu\u00ed una serie de blogs \u00fatiles: http://aminoapps.com/p/7mjzfbu, http://aminoapps.com/p/9czgzg",
+    "prefix": "!",
+    "welcome_chat": "",
+    "locked_command": [
+        ""
+    ],
+    "favorite_users": [],
+    "favorite_chats": [],
+    "banned_words": []
+}
